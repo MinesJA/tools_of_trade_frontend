@@ -13,6 +13,9 @@ A site for developers to share, rate, find, and save tools useful for developmen
 * [ReactJs](https://reactjs.org/)
 * [PostGres](https://www.postgresql.org/)
 
+## Hosting
+* [Heroku](https://heroku.com)
+
 ## Authors
 * [Jonathan Mines](https://github.com/MinesJA)
 
